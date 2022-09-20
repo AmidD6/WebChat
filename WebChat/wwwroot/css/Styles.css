@@ -1,0 +1,57 @@
+﻿body {
+}
+
+.userName {
+    font-size: 110%;
+}
+
+.ChatListContainer {
+    margin-top: 10px;
+    width: 100%;
+}
+.vr {
+    border-left: 2px solid silver;
+}
+
+.UserLink {
+    width: 95%;
+    text-align: center;
+    font-size: 140%;
+    cursor: pointer;
+}
+
+.fa-folder {
+    margin-right: 10px;
+}
+
+.container {
+    padding-top: 25px;
+}
+
+
+.heightFixed {
+    height: 90vh;
+    padding: 0;
+}
+
+.ChatDiv {
+    width: 100%;
+    /*z-index: 1;*/
+    min-height: 100vh;
+}
+
+/*.Chat__text {
+    overflow-y: scroll;
+}*/
+
+/*.vr {
+    min-height: 0px;
+}*/
+
+.Chat__head{
+    display: none;
+}
+
+.margin_listUsers {
+    padding-top: 40px;
+}
